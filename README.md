@@ -132,12 +132,12 @@ My approach emphasizes **Enterprise Clarity**—high-contrast, high-impact dashb
 
 Clone the repository:
 ```bash
-git clone https://github.com/hmurtaza720/Power-BI-Cross-Domain-Dashboards
+https://github.com/M-Baqar/Power-BI-Cross-Domain-Dashboards.git
 ```
 ### **📬 Contact**
 
 - Syed Muhammad Baqar Rizvi
 - Data & AI Engineer
-- LinkedIn: linkedin.com/in/muhammad-baqar-08097b381/
+- LinkedIn: https://www.linkedin.com/in/muhammad-baqar-08097b381/
 - Email: baqarrizvi05@gmail.com
 
