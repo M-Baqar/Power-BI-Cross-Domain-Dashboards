@@ -4,13 +4,6 @@ Welcome to my comprehensive **Business Intelligence portfolio**. This repository
 
 My work spans multiple high-impact domains, including **Finance, HR, Retail, Project Management, and Environmental Intelligence**, utilizing **advanced DAX**, **Power Query ETL**, and **Star Schema data modeling**.
 
----
-
-## 🌐 Live Portfolio Website
-
-Explore the interactive portfolio and executive walkthroughs here:  
-🔗 **https://business-intelligence-po-vzcpz4r.gamma.site/**
-
 
 ---
 
@@ -143,8 +136,8 @@ git clone https://github.com/hmurtaza720/Power-BI-Cross-Domain-Dashboards
 ```
 ### **📬 Contact**
 
-- Syed Murtaza Hassan
+- Syed Muhammad Baqar Rizvi
 - Data & AI Engineer
-- LinkedIn: https://www.linkedin.com/in/hmurtaza720/
-- Email: hmurtaza510@gmail.com
+- LinkedIn: linkedin.com/in/muhammad-baqar-08097b381/
+- Email: baqarrizvi05@gmail.com
 
