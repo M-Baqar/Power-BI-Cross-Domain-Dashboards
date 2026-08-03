@@ -71,10 +71,6 @@ End-to-end retail analysis with **predictive modeling**.
 <img width="1769" height="992" alt="Screenshot 2025-12-18 150055" src="https://github.com/user-attachments/assets/d74a154e-1479-4198-9ed1-6cf8173390bd" />
 
 
-**E-Commerce Trends**
-- Clothing dominates sales at **63%** of total quantity
-
-<img width="1868" height="1052" alt="Screenshot 2025-12-18 150109" src="https://github.com/user-attachments/assets/3ab71cc2-fb3b-4d4a-8a7e-6ffb1f29a79b" />
 
 ---
 
@@ -137,7 +133,7 @@ https://github.com/M-Baqar/Power-BI-Cross-Domain-Dashboards.git
 ### **📬 Contact**
 
 - Syed Muhammad Baqar Rizvi
-- Data & AI Engineer
+- Data Scientist
 - LinkedIn: https://www.linkedin.com/in/muhammad-baqar-08097b381/
 - Email: baqarrizvi05@gmail.com
 
